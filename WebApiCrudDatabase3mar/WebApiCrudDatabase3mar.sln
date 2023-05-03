@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApiCrudDatabase3mar", "WebApiCrudDatabase3mar\WebApiCrudDatabase3mar.csproj", "{C0372784-8ABE-434D-A229-FDD9E0441A69}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0372784-8ABE-434D-A229-FDD9E0441A69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0372784-8ABE-434D-A229-FDD9E0441A69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0372784-8ABE-434D-A229-FDD9E0441A69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0372784-8ABE-434D-A229-FDD9E0441A69}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3047AB18-3313-4AB2-A325-1C3E1A4E0F17}
+	EndGlobalSection
+EndGlobal
